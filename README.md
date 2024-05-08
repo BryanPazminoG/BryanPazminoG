@@ -1,5 +1,7 @@
-### Hi there 👋
-
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
 <!--
 **BryanPazminoG/BryanPazminoG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
